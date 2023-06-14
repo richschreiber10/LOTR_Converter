@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, fake branch!")
+            Text("Hello, commit #3")
         }
         .padding()
     }
